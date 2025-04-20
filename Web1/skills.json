@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Hardware",
+        "icon": "https://www.iconarchive.com/download/i47372/icons-land/vista-hardware-devices/Motherboard.48.png"
+    },
+    {
+        "name": "BIOS",
+        "icon": "https://www.iconarchive.com/download/i113489/fatcow/farm-fresh/bios.32.png"
+    },
+    {
+        "name": "OS",
+        "icon": "https://icons.iconarchive.com/icons/oxygen-icons.org/oxygen/48/Apps-preferences-system-login-icon.png"
+    },
+    {
+        "name": "IT Network",
+        "icon": "https://icons.iconarchive.com/icons/dtafalonso/modern-xp/48/ModernXP-59-Network-Shared-Folder-icon.png"
+    },
+    {
+        "name": "Subnetting",
+        "icon": "https://www.iconarchive.com/download/i115276/fatcow/farm-fresh/ip.32.png"
+    },
+    {
+        "name": "CCNA",
+        "icon": "https://www.iconarchive.com/download/i32329/tpdkdesign.net/refresh-cl/Network-Internet-Connection.48.png"
+    },
+    {
+        "name": "LINUX Admin",
+        "icon": "https://img.icons8.com/color/48/000000/linux.png"
+    },
+    {
+        "name": "MCSA",
+        "icon": "https://img.icons8.com/color/48/000000/server.png"
+    },
+    {
+        "name": "Bootstrap",
+        "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
+    },
+    {
+        "name": "HTML5",
+        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+    },
+    {
+        "name": "CSS3",
+        "icon": "https://img.icons8.com/color/48/000000/css3.png"
+    },
+    {
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+    },
+    {
+        "name": "PHP",
+        "icon": "https://img.icons8.com/offices/48/000000/php-logo.png"
+    },
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+    },
+    {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+    },
+    {
+        "name": "AWS",
+        "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
+    },
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    },
+    {
+       "name": "WordPress",
+        "icon": "https://img.icons8.com/color/48/000000/wordpress.png" 
+    }  
+]
